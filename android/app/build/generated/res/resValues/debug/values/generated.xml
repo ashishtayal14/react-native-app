@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="API_END_POINT" translatable="false">"http://localhost:7070/api"</string>
+    <string name="API_URL" translatable="false">"https://myapi.com"</string>
+    <string name="GOOGLE_MAPS_API_KEY" translatable="false">"abcdefgh"</string>
+
+</resources>

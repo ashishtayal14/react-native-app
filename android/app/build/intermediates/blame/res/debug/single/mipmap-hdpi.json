@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\React\\Training\\App\\newapp1\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\React\\Training\\App\\newapp1\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Training\\App\\newapp1\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Training\\App\\newapp1\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Training\\App\\newapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Training\\App\\newapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
